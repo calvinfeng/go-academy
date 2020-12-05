@@ -19,7 +19,7 @@
     "@types/react-dom": "^16.0.8",
     "axios": "^0.18.0",
     "css-loader": "^1.0.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "sass-loader": "^7.1.0",
